@@ -167,7 +167,7 @@ if ply:Alive() then
 	end
 	hook.Add( "HUDPaint", "DrawAgenda", DrawAgenda ) 
 
-	if GetGlobalBool("LockDown") then
+	if GetGlobalBool("DarkRP_LockDown") then
 		draw.RoundedBox( 10, 30, ScrH() - 180, 120, 40, bgline )
 		surface.SetDrawColor( Color(255,255,255,255) )
 		surface.SetMaterial( ErrorIcon )	
