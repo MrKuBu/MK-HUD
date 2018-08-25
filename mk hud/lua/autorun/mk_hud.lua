@@ -23,7 +23,7 @@ local textcolor	= Color( 255, 255, 255, 255)-- RU:Цвет текста(цвет
 -- Цвета худа/Color hud/Couleur hud!!!
 
 -- Модули худа/Modules hud/Modules hud!!!!
-local Hungermod = true	-- RU:Полоска голода/EN:Hunger bar/FR:Le régime de la faim
+local Hungermod = false	-- RU:Полоска голода/EN:Hunger bar/FR:Le régime de la faim
 -- Модули худа/Modules hud/Modules hud!!!!
 -- Конфиг/Config/Config
 
@@ -302,7 +302,7 @@ end)
 print("\n")
 MsgC(Color(0,255,0), "---->\n")
 MsgC(Color(255, 0, 0), " > ") MsgC(Color(255,255,255), "MrKuBu HUD ...\n")
-MsgC(Color(255, 0, 0), " > ") MsgC(Color(255,255,255), "Version: 1.0\n")
+MsgC(Color(255, 0, 0), " > ") MsgC(Color(255,255,255), "Version: 1.1\n")
 MsgC(Color(255, 0, 0), " > ") MsgC(Color(255,255,255), "By MrKuBu \n")
 MsgC(Color(255, 0, 0), " > ") MsgC(Color(255,255,255), "My Site: https://mrkubu.github.io \n")
 MsgC(Color(255, 0, 0), " > ") MsgC(Color(255,255,255), "My VK: https://vk.com/mrkubu \n")
