@@ -4,7 +4,7 @@
 
 -- Конфиг/Config/Config
 local SandBox 	= false 		-- RU:Режим песочницы/EN:Gamemode SandBox/FR:Mode bac à sable
-local Crosshair = true			-- RU:Полоска голода/EN:Crosshair/FR:La vue
+local Crosshair = true			-- RU:Прицел/EN:Crosshair/FR:La vue
 local Hungermod = false			-- RU:Полоска голода/EN:Hunger bar/FR:Le régime de la faim	-- ONLY DarkRP
 -- Конфиг/Config/Config
 --
